@@ -16,9 +16,9 @@ Neste curso inicial você será capaz de criar duas telas para simular uma trans
 - `Material Design`: A estrutura para criar UI/UX utilizando Componentes.
 - `Column`: Componente que permite criação de Colunas.
 - `Text`: Componente que permite criar Textos.
-- `Scaffold`: Componente que Modela o formato padraõ para seu Aplicativo.
-- `RaisedButton`: Botão que permite aplicação de funções, como mudanças de tela. 
-  - ( RaisedButton foi depreciado no Flutter 2.0, agora utilize o `ElevatedButton` ) 
+- `Scaffold`: Componente que Modela o formato padrão para seu Aplicativo.
+- `RaisedButton`: Botão que permite configurar ações, como mudanças de tela. 
+  - ( `RaisedButton` foi depreciado no Flutter 2.0, agora utilize o `ElevatedButton` ) 
 - `StatelessWidget`: O StatelessWidget (Widget sem Estado) que apresenta telas estáticas.
 - `StatefulWidget`: O StatefulWidget (Widget com Estado) que apresenta telas dinâmicas.
 
@@ -34,7 +34,7 @@ O acesso ao projeto está separado da seguinte forma:
 └── aula-5
 ```
 
-A branch [aula-1](https://github.com/alura-cursos/flutter-fundamentos/tree/aula-1) é o ponto de partida do repositório, é partindo dela que desenvolveremos a aula_1. Por sua vez, a aula_2 é uma continuação da aula_2 e assim vai sucessivamente. A branch aula-5 é a final, nela você encontra o código final criado no curso até a aula_5.
+A branch [aula-1](https://github.com/alura-cursos/flutter-fundamentos/tree/aula-1) é o ponto de partida do repositório, é partindo dela que desenvolveremos a aula-1. Por sua vez, a aula-2 é uma continuação da aula-2 e assim vai sucessivamente. A branch aula-5 é a final, nela você encontra o código final criado no curso até a aula-5.
 
 Você pode [baixar o zip](https://github.com/alura-cursos/flutter-fundamentos/archive/refs/heads/aula-5.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/flutter-fundamentos/tree/aula-5).
 
