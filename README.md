@@ -12,7 +12,7 @@ Neste projeto, você será capaz de criar duas telas para simular uma transaçã
 
 ## ✔️ Técnicas e tecnologias
 
-Neste projeto, utilizamos:
+Para desenvolver o projeto, utilizamos as seguintes técnicas e tecnologias:
 - `Material Design`: A estrutura para criar UI/UX utilizando Componentes.
 - `Column`: Componente que permite criação de Colunas.
 - `Text`: Componente que permite criar Textos.
