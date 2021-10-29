@@ -2,17 +2,17 @@
 
 # Bytebank
 
-O Bytebank App é a simulação do aplicativo de um banco, com ele você poderá fazer transações bancárias, informando o numero da conta e o valor monetário da transação!
+O Bytebank App é a simulação do aplicativo de um banco, com ele você poderá fazer transações bancárias, informando o número da conta e o valor monetário da transação!
 
 ## 🔨 Características do projeto
 
-Neste curso inicial você será capaz de criar duas telas para simular uma transação de dinheiro para uma conta!
+Neste projeto, você será capaz de criar duas telas para simular uma transação de dinheiro para uma conta!
 
 ![](https://raw.githubusercontent.com/Kakomo/readme-template/main/Flutter%20Fundamentos%20Projeto.gif)
 
 ## ✔️ Técnicas e tecnologias
 
-**Veja mais de perto o que você aprenderá sobre** :
+Neste projeto, utilizamos:
 - `Material Design`: A estrutura para criar UI/UX utilizando Componentes.
 - `Column`: Componente que permite criação de Colunas.
 - `Text`: Componente que permite criar Textos.
@@ -40,7 +40,7 @@ Você pode [baixar o zip](https://github.com/alura-cursos/flutter-fundamentos/ar
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Para executar este projeto você precisa:**
+Para executar este projeto você precisa:
 
 - Ter o [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina
 - Ter algum editor de códigos ou IDE como o [Android Studio](https://developer.android.com/studio) ou [Intellij Idea](https://www.jetbrains.com/pt-br/idea/download/). 
